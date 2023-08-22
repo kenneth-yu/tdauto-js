@@ -1,3 +1,22 @@
 {
-  "type": "module"
+  "name": "td-auto",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kenneth-yu/tdauto.git"
+  },
+  "author": "Kenneth Yu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kenneth-yu/tdauto/issues"
+  },
+  "homepage": "https://github.com/kenneth-yu/tdauto#readme",
+  "dependencies": {
+    "dotenv": "^16.3.1"
+  }
 }
